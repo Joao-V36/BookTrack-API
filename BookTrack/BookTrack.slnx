@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="BookTarck API/BookTarck API.csproj" />
+    <Project Path="BookTrack.Application/BookTrack.Application.csproj" />
+    <Project Path="BookTrack.Domain/BookTrack.Domain.csproj" />
+    <Project Path="BookTrack.Infraestructure/BookTrack.Infraestructure.csproj" />
+  </Folder>
+</Solution>
